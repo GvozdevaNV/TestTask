@@ -1,0 +1,12 @@
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\bin\Debug\Task1_Orders.exe.config
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\bin\Debug\Task1_Orders.exe
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\bin\Debug\Task1_Orders.pdb
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\bin\Debug\EntityFramework.dll
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\bin\Debug\EntityFramework.SqlServer.dll
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\bin\Debug\EntityFramework.xml
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\bin\Debug\EntityFramework.SqlServer.xml
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\obj\Debug\Task1_Orders.csprojAssemblyReference.cache
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\obj\Debug\Task1_Orders.csproj.CoreCompileInputs.cache
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\obj\Debug\Task1_Orders.csproj.CopyComplete
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\obj\Debug\Task1_Orders.exe
+D:\Наташа\C#\Тестовое задание Технологика\Task1_Orders\Task1_Orders\obj\Debug\Task1_Orders.pdb
